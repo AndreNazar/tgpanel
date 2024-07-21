@@ -3,7 +3,7 @@ let navbar_dialogs = document.querySelector(".navbar-dialogs")
 let data = [
   {
     id: 1,
-    nickname: "Trap Trap",
+    nickname: "trip wow",
     avatar:
       "https://i.pinimg.com/736x/cc/cc/4d/cccc4d3c17d97e05226c10c30d8d7689.jpg",
     last_message: "Хорошо",
@@ -15,7 +15,7 @@ let data = [
     avatar:
       "https://upload.wikimedia.org/wikipedia/ru/9/94/%D0%93%D0%B8%D0%B3%D0%B0%D1%87%D0%B0%D0%B4.jpg",
     last_message:
-      "Типа ну типа ну типа блять хз вот ну да коггда всегда уже как будто бы собственно говоря то шо уже не верится всегда было никогда теперь оно даже и везде теперь ну да",
+      "Какой-то очень длинный текст, очень очень длинный текст, что он не влезает в границы блока.",
     time_last_message: "12:25",
   },
   {
@@ -23,7 +23,7 @@ let data = [
     nickname: "Олеся",
     avatar:
       "https://www.vokrug.tv/pic/person/6/8/f/7/68f7f1efb74c24cc4c08904fc7a245b2.jpg",
-    last_message: "Я у тебя дома голая лежу",
+    last_message: "Я не Наталья!!!!",
     time_last_message: "09:13",
   },
   {
